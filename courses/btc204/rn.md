@@ -1,6 +1,6 @@
 ---
 name: Ubuzima bwite kuri Bitcoin.
-goal: Gutahura no kumenya neza ingingo ngenderwako zo kurinda ubuzima bwite igihe ukoresha Bitcoin.
+goal: Gutahura no kumenya neza ingingo ngenderwako zo gukingira ubuzima bwite igihe ukoresha Bitcoin.
 objectives: 
 
 
@@ -11,35 +11,35 @@ objectives:
 
 
 ---
-# Ukingire ubuzima bwite bwawe kuri Bitcoin.
+# Kingira ubuzima bwawe bwite  kuri Bitcoin.
 
 
-Mu isi aho ibanga ry’ibikorwa vy’amahera ririko rigenda rihinduka ikintu c’agaciro, gutahura no kumenya neza ingingo ngenderwako zo kurinda ubuzima bwite igihe ukoresha Bitcoin ni ngombwa cane. Iryo shure riguha imfunguruzo zose, zo mu vyiyumviro no mu bikorwa, kugira ngo ivyo ubishikeko wigenga.
+Muri iyi si aho gukingira ibikorwa bijanye n’amahera ririko rigenda ricika ikintu c’agaciro ntangere, gutahura no kumenya neza ingingo ngenderwako zo kurinda ubuzima bw'umuntu bwite igihe ukoresha Bitcoin ni nkenerwa cane. Iki cigwa  kiguha imfunguruzo zose, zo mu vyiyumviro no mu bikorwa, kugira ngo ivyo ubishikeko widegemvya.
 
 
-Ubu, kuri Bitcoin, amashirahamwe yizeye cane gusesangura Blockchain. Ivyo bakora canecane ni ukwinjira mu vyo ukora, kugira ngo bashobore guhungabanya ibanga ry’ivyo ukora. Mu vy'ukuri, nta kintu nk'ico "uburenganzira bwo kwirinda" kiri muri Bitcoin. Rero ni wewe ukoresha, ushobora kwemeza uburenganzira bwawe bwa kavukire no kurinda ibanga ry’amahera ukoresha, kuko nta wundi azobigukorera.
+Ubu, kuri Bitcoin, amashirahamwe yijukiye cane gukoresha Blockchain. Ivyo bakora canecane ni ukwinjira mu vyo dukenera, kugira ngo bashobore guhungabanya  mw'ibanga ntangere ibikorwa vy'umuntu. Mubisanzwe, muri Bitcoin nta tegeko rihari twokwita "ndinda buzima bwa muntu". Rero ni uruhara rwa buri muntu, gukingira no kubungabunga ubuzima bwawe bw'ibange no kugira ibanga amahera ukoresha, kuko nta wundi azobigukorera ku mbuga.
 
 
-Iryo shure ryateguwe kugira ngo ribe ry’ibintu vyose kandi ry’ibintu rusangi. Iciyumviro cose c’ubuhinga kiravugwa mu buryo burambuye kandi gishigikirwa n’ibishushanyo vy’insobanuro. Intumbero ni ugutuma ubumenyi bushikira bose. BTC204 rero irashoboka ku batangura n’abayikoresha hagati. Iryo shure kandi ritanga agaciro kongerewe ku bahinga cane mu vy’ubuhinga bwa bitcoin, uko twinjira cane mu vyiyumviro bimwebimwe vy’ubuhinga akenshi bitatahurwa nabi.
+Iki cigwa categuwe kugira ngo habe gutahura ibi na biriya muri rusangi ariko umwe umwe kugiti ciwe cihariye . Iciyumviro cose gisaba ubuhinga tuzoza turagisigura neza n'ivyo bijanye kandi twifashishe uburorero n'amasanamu bifitaniye isano rya hafi. Intumbero nyamukuru ni uko twese tubitahura. BTC-204 rero irashoboka gutahurwa na bashasha ndetse n'abamaze kubikoresha gake gake. Iki cigwa kandi kitanga ivyiyumviro vy'inyongera  ku bahinga cane mu vy’ubuhinga bwa bitcoin, kuko tuzosigura cane cane bimwe muvyiyumviro vy'ubuhinga bamwe bamwe batahura ukutariko canke bakabikoresha nabi.
 
 
-Twifatanye natwe kugira ngo uhindure uko ukoresha Bitcoin maze ube umukoresha afise amakuru, ashobora gutahura ibibazo bijanye n’ibanga no kurinda ubuzima bwite bwawe.
+Dufatanye urugendo rero  kugira ngo dushobore guhindure uko dukoresha Bitcoin kugira nawe ubitahure neza, ushobora gutahura ibibazo bijanye n’ibanga ryo kurinda ubuzima  bwawe bw'ibanga.
 
 
 +++
-# Imenyekanisha
+# Ukumenyekanisha
 
 
 <partId>e17474a8-8899-4bdb-a7f8-bc52ddb01440</partId>
 
 
-## Incamake y'amashure
+## Intangamarara
 
 
 <chapterId>08ba1933-f393-4fb5-8279-777d874caedb</chapterId>
 
 
-Murakaze mu nyigisho ya BTC204!
+Kaze neza mu nyigisho ya BTC-204!
 
 
 Mu isi aho ibanga ry’ibikorwa vy’amahera ririko rigenda rihinduka ikintu c’agaciro, gutahura no kumenya neza ingingo ngenderwako zo kurinda ubuzima bwite igihe ukoresha Bitcoin ni ngombwa cane. Iryo shure riguha imfunguruzo zose, zo mu vyiyumviro no mu bikorwa, kugira ngo ivyo ubishikeko wigenga.
