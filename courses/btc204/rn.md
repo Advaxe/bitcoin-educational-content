@@ -45,13 +45,13 @@ Kaze neza mu nyigisho ya BTC-204!
 Mw'isi aho ibanga ry’ibikorwa vy’amahera ririko rigenda rihinduka ikintu c’agaciro, gutahura no kumenya neza ingingo ngenderwako zo kurinda ubuzima bwite igihe ukoresha Bitcoin ni nkenerwa cane gose. Ico cigwa kiraguha ivyankenerwa vyose, haba kuvyiyumviro canke mubikorwa, kugira ushobore gushika kukwigenga nyezina.
 
 
-Ubu, kuri Bitcoin, amashirahamwe yizeye cane gusesangura Blockchain. Ivyo bakora canecane ni ukwinjira mu vyo ukora, kugira ngo bashobore guhungabanya ibanga ry’ivyo ukora. Mu vy'ukuri, nta kintu nk'ico "uburenganzira bwo kwirinda" kiri muri Bitcoin. Rero ni wewe ukoresha, ushobora kwemeza uburenganzira bwawe bwa kavukire no kurinda ibanga ry’amahera ukoresha, kuko nta wundi azobigukorera.
+Ubu, mubijanye na Bitcoin, abanyamitahe baratahuye ugukorera kuri blockchain n'ubuhinga bijanye. Ivyo bakora kenshi na kenshi ni ugushaka gukurikirana ivyo ukora, muntumbero yo guhungabanya no gucafuza ivyo uba uriko urahakorera. Mu vy'ukuri, nta kintu nk'ico twokwita  "uburenganzira bwo kwirinda" kiri muri Bitcoin. Rero ni wewe ukoresha, ushobora kwemeza uburenganzira bwawe bwa kavukire no kurinda ibanga ry’amahera ukoresha, kuko nta wundi azobigukorera.
 
 
-Bitcoin si "Number Go Up" gusa no kuzigama agaciro k'amahera uzigamye. Kubera ibiranga n’amateka yayo bidasanzwe, ni co gikoresho ca mbere c’ubutunzi bwo guhangana n’ubutunzi. Uciye kuri iyo nkuru iteye ubwoba, urashobora gukoresha amahera yawe mu mwidegemvyo, ukayakoresha kandi ukayarundanya, ata n’umwe ashobora kuguhagarika.
+Bitcoin si "Number Go Up" gusa no kubungabunga agaciro nyezina k'amafaranga waziganije. Kubera indangurakintu hamwe n'ububasha vyayo  bidasanzwe, ni co gikoresho kiri imbere mubijanye no kubungabunga ubutunzi bwa muntu. Umaze kwikingira rero ubwo bubisha buhabera, urashobora gukoresha amafaranga yawe utekanye, ukayakoresha kandi ukanunguka, kandi ntan'umwe aba ariko aragukurikirana.
 
 
-Bitcoin itanga ubuhungiro bw’amahoro ku ngǒgo ya Leta, ikaguha uburenganzira bwo kwinovora bimwe bishitse uburenganzira bwawe bwa kavukire, budashobora gushirwako umukono n’amategeko yashinzwe. Kubera ubuhinga bwa Satoshi Nakamoto, urafise ububasha bwo gutuma abantu bubaha umutungo wawe bwite no gusubira kuronka umwidegemvyo kuri Contract.
+Bitcoin itanga icizere no kurinda uwuyifise bidaciye muri Leta y'igihugu, ikaguha ukwisanzura no kwinovora bimwe bishitse uburenganzira bwawe ndemanwa, bidashobora guhindurwa n'amategeko abatwara baba bashizeho. Kubera iyo mpinyanyuro ya Satoshi Nakamoto, uraronka ububasha nyabwo butuma abantu basonera ivyo utunze wewe ubwawe no kuronka ukwishira n'ukwizana muco twita "Contract".
 
 
 Ariko rero, Bitcoin ntabwo ari ikintu kitamenyekana, ivyo bikaba bishobora gutera ingorane abantu bifatanya n’ubutunzi, cane cane mu turere turi munsi y’ubutegetsi bw’agahomerabunwa. Ariko ivyo si vyo vyonyene bitera akaga. Kubera ko Bitcoin ari ikintu c’agaciro kandi kidashobora gushirwako umutima, gishobora kuba ikintu abasuma bashobora gutera. Rero kurinda ubuzima bwite bwawe na vyo nyene bica bihinduka ikibazo c’umutekano: birashobora kugufasha kwirinda gukubitwa n’abantu n’ugukubitwa ku mubiri.
