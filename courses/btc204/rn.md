@@ -42,7 +42,7 @@ Dufatanye urugendo rero  kugira ngo dushobore guhindure uko dukoresha Bitcoin ku
 Kaze neza mu nyigisho ya BTC-204!
 
 
-Mu isi aho ibanga ry’ibikorwa vy’amahera ririko rigenda rihinduka ikintu c’agaciro, gutahura no kumenya neza ingingo ngenderwako zo kurinda ubuzima bwite igihe ukoresha Bitcoin ni ngombwa cane. Iryo shure riguha imfunguruzo zose, zo mu vyiyumviro no mu bikorwa, kugira ngo ivyo ubishikeko wigenga.
+Mw'isi aho ibanga ry’ibikorwa vy’amahera ririko rigenda rihinduka ikintu c’agaciro, gutahura no kumenya neza ingingo ngenderwako zo kurinda ubuzima bwite igihe ukoresha Bitcoin ni nkenerwa cane gose. Ico cigwa kiraguha ivyankenerwa vyose, haba kuvyiyumviro canke mubikorwa, kugira ushobore gushika kukwigenga nyezina.
 
 
 Ubu, kuri Bitcoin, amashirahamwe yizeye cane gusesangura Blockchain. Ivyo bakora canecane ni ukwinjira mu vyo ukora, kugira ngo bashobore guhungabanya ibanga ry’ivyo ukora. Mu vy'ukuri, nta kintu nk'ico "uburenganzira bwo kwirinda" kiri muri Bitcoin. Rero ni wewe ukoresha, ushobora kwemeza uburenganzira bwawe bwa kavukire no kurinda ibanga ry’amahera ukoresha, kuko nta wundi azobigukorera.
