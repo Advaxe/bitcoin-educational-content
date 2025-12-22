@@ -116,7 +116,7 @@ Turaza kandi kuraba ubuzima bwite ku rugero rw’uruzitiro rw’ibihimba n’ugu
 Ni mwiteguye gutohoza ivy’ubuzima bwite kuri Bitcoin? Reka tugende!
 
 
-# Insobanuro n'ivyiyumviro nyamukuru
+# Insiguro hamwe n'ivyiyumviro nshimikiro
 
 
 <partId>b9bbbde3-34c0-4851-83e8-e2ffb029cf31</partId>
