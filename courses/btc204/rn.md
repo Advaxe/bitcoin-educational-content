@@ -78,16 +78,16 @@ Kugira ngo tubije mumizi, turaza gusubiramwo ivyiyumviro nshimikiro n'ingingo ng
 **Igice ca 2: Gutahura gukurikiranira hafi shene n'ukwikingira kuriyo**
 
 
-Mu gice ca kabiri, turaba ubuhinga bukoreshwa n'amashirahamwe y'isesengura rya Blockchain kugira ngo akurikirane igikorwa cawe kuri Bitcoin. Gutahura ubwo buryo ni ikintu gihambaye cane kugira ngo ukomeze uburinzi bwawe bw’ibanga. Intumbero y’iki gice ni ugusuzuma ingamba z’abatera kugira ngo dutahure neza ingorane zishobora gushika no gutegura ubuhinga tuzokwiga mu bice bikurikira. Tuzosuzuma uburyo bwo gucuruza, ubuhinga bwo mu mutima n’ubwo hanze, n’insobanuro zishobora kuba z’ivyo bice. Uretse inyigisho, tuzokwiga ingene twokoresha Block explorer mu gusesangura uruhererekane, biciye ku ngero n’imyimenyerezo ngirakamaro.
+Mu gice ca kabiri, turaba ubuhinga bukoreshwa n'amashirahamwe y'ikurikiranwa rya Blockchain kugira ngo akurikirane ibikorwa ukorera kuri Bitcoin. Gutahura ubwo buryo ni ikintu gikomeye cane kugira ngo utsimbataze ubwikingizi bwawe kuri bitcoin. Intumbero y’iki gice ni ugusuzuma ibitero vy’abasuma kugira ngo dutahure neza ingorane zishobora gushika no gutegura ubuhinga tuzokwiga mu bice bikurikira. Tuzosuzuma uburyo bwo guhanahana amahera, duce hirya no hino ubwo buhinga, n'insiguro ubuhinga bumwe bumwe ukwabwo buba bufise. Iruhande y'aya ma tewori(amayagwa), tuzokwiga ingene twokoresha Block explorer mu gusesangura uruhererekane, biciye ku burorero n’imyimenyerezo itegekanijwe.
 
 
 ![BTC204](assets/fr/002.webp)
 
 
-**Igice ca 3: Kumenya neza ingendo nziza zo kurinda ubuzima bwite bwawe**
+**Igice ca 3: Kumenya neza ingendo nziza zo kwikingira**
 
 
-Mu gice ca gatatu c’inyigisho yacu, turamanuka ku bintu bitobito: kwimenyereza! Intumbero ni ukumenya neza ingendo nziza zose z’ingenzi zikwiye kuba ivyiyumviro vy’akameremere ku muntu wese akoresha Bitcoin. Tuzoba turiko turavuga ku gukoresha amaderesi ataco avuga, gushiramwo ibimenyetso, gushiramwo, gukoresha ama node yuzuye, hamwe n’uburyo bwo gukora KYC n’uburyo bwo kuronka. Intumbero ni ukuguha inyishu yuzuye y’imitego yo kwirinda kugira ngo dushireho umushinge ukomeye mu kurondera kwacu kwo kurinda ubuzima bwite. Ku bimwebimwe muri ivyo bikorwa, uzorongorwa n’inyigisho yihariye yerekeye ingene wobishira mu ngiro.
+Mu gice ca gatatu c’inyigisho yacu, turashika no ku bintu bitobito: imyimenyerezo! Intumbero ni ukumenya neza ingendo nziza zose ngirakamaro zikwiye kuba ivyiyumviro vy’akameremere ku muntu wese akoresha Bitcoin. Tuzoba turiko turavuga ku gukoresha ama aderese agaragara, gushiramwo ibimenyetso, kuzigumisha, gukoresha ama node akwiye, hamwe n’uburyo bwo gukora KYC (uko bamenya umukiriya) n’uburyo bwo kuyaronka. Intumbero ni ukuguha inyishu zikwiye ku mitego yose ijanye no kwikingira kugira ngo dushireho iremezo rikomeye mu kurondera kwacu kwo kwikingira nyezina. Kubikorwa  bimwebimwe murivyo, uzoza urahamagarirwa gukurikirana n’inyigisho yihariye yerekeye ingene wobishira mu ngiro (kaba ari agasomwa gato ko gutanga insiguro)
 
 
 ![BTC204](assets/fr/003.webp)
@@ -96,13 +96,13 @@ Mu gice ca gatatu c’inyigisho yacu, turamanuka ku bintu bitobito: kwimenyereza
 **Igice ca 4: Gutahura ibikorwa vya CoinJoin**
 
 
-None twovuga gute ivyerekeye ubuzima bwite kuri Bitcoin tutavuze ama coinjoins? Mu gice ca 4, uzosanga ivyo ukeneye kumenya vyose ku bijanye n’ubu buryo bwo kuvanga. Uzomenya ivyo coinjoins arivyo, amateka yavyo n’intumbero zavyo, hamwe n’ubwoko butandukanye bwa CoinJoin buriho. Ubwa nyuma, ku muntu afise ubumenyi bwinshi, turaza kuraba ivyo anonsets na entropy ari vyo, n’ingene twobiharura.
+None twovuga gute ivyerekeye ukwingira nyezina kuri Bitcoin tutavuze ama coinjoins? Mu gice ca 4, uzosanga ivyo ukeneye kumenya vyose ku bijanye n’ubu buryo bwo gucanga. Uzomenya ico arico coinjoins , amakuru ajanye navyo n’intumbero zavyo, hamwe n’ubwoko butandukanye bwa CoinJoin buriho. Mu gusozera, kubantu bamaze kumenyera gukorera muri vyo, turaza kuraba ivyo anonsets na entropy ari vyo, n’ingene ziharurwa.
 
 
 ![BTC204](assets/fr/004.webp)
 
 
-**Igice ca 5: Gutahura ingorane z’ubundi buhinga buteye imbere bwo gucungera ibanga**
+**Igice ca 5: Gutahura ubundi buhinga buteye imbere bwo kwikingira**
 
 
 Mu gice ca gatanu, turaza kuraba ubundi buryo bwose bwo kurinda ubuzima bwite bwawe kuri Bitcoin, uretse CoinJoin. Mu myaka iheze, abahinguzi b’ibikoresho baragaragaje ubuhinga budasanzwe mu guhingura ibikoresho vyerekeye ubuzima bwite. Turaza kuraba ubwo buryo bwose, nka PayJoin, ubufatanye, Coin Swap na Atomic Swap, tuzodondora neza ingene bukora, intumbero zabwo n’intege nke zose zifise.
