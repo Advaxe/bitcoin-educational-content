@@ -69,13 +69,13 @@ Intumbero y'iki cigwa si ukwinyegeze vya gose mu gukoresha Bitcoin, ahubwo ni uk
 **Igice ca 1: Indangurakintu n'ivyiyumviro nshimikiro**
 
 
-Kugira ngo dutangure, turaza gusubiramwo ingingo ngenderwako z’ishimikiro zigenga ingene Bitcoin ikora, kugira ngo dushobore gutorera umuti ivyiyumviro bijanye n’ibanga. Ni ngombwa ko umenya neza ivyiyumviro bikeyi vy’ishimikiro, nka UTXO, kwakira amaderesi n’inyandiko, imbere y’uko ushobora gutahura neza ivyiyumviro tuzovuga mu bice bikurikira. Tuzozana kandi uburyo bwo gucungera ibanga rusangi bwa Bitcoin, nk’uko bwavyiyumviriye na Satoshi Nakamoto, buzotuma dushobora gutahura ingorane n’ingorane zijanye n’ivyo.
+Kugira ngo tubije mumizi, turaza gusubiramwo ivyiyumviro nshimikiro n'ingingo ngenderwako bigenga ingene Bitcoin ikora n'uko ikoreshwa, kugira ngo dushobore gutorera umuti ivyiyumviro bijanye n’ukwikingira. Ni nkenerwa cane ko umenya neza ivyiyumviro bikeyi nshimikiro, nka UTXO,aderese zo kwakira amafaranga n’ubuhinga binyegezwamwo, imbere y’uko ushobora gutahura neza ivyiyumviro tuzovuga mu bigabane bikurikira. Tuzoganira kandi uburyo bwo kwikingira muvya Bitcoin, nk’uko vyageragejwe kwerekanwa na Satoshi Nakamoto, buzotuma dushobora gutahura ingorane zose zijanye navyo.
 
 
 ![BTC204](assets/fr/001.webp)
 
 
-**Igice ca 2: Gutahura no kwikingira isesengura ry'uruzitiro**
+**Igice ca 2: Gutahura gukurikiranira hafi shene n'ukwikingira kuriyo**
 
 
 Mu gice ca kabiri, turaba ubuhinga bukoreshwa n'amashirahamwe y'isesengura rya Blockchain kugira ngo akurikirane igikorwa cawe kuri Bitcoin. Gutahura ubwo buryo ni ikintu gihambaye cane kugira ngo ukomeze uburinzi bwawe bw’ibanga. Intumbero y’iki gice ni ugusuzuma ingamba z’abatera kugira ngo dutahure neza ingorane zishobora gushika no gutegura ubuhinga tuzokwiga mu bice bikurikira. Tuzosuzuma uburyo bwo gucuruza, ubuhinga bwo mu mutima n’ubwo hanze, n’insobanuro zishobora kuba z’ivyo bice. Uretse inyigisho, tuzokwiga ingene twokoresha Block explorer mu gusesangura uruhererekane, biciye ku ngero n’imyimenyerezo ngirakamaro.
