@@ -199,62 +199,60 @@ Igitigiri cose c'amahera yawe coba ari `17 BTC`.
 <chapterId>29d3aaab-de2e-4746-ab40-c9748898850c</chapterId>
 
 
+### Ivyinjizwa n'ibisohorwa muguhanahana
 
-### Ivyinjizwa n'ibisohoka mu gucuruza
 
-
-Igikoresho ca Bitcoin ni igikorwa canditswe kuri Blockchain kirungika Ownership y’ama bitcoins kuva ku muntu umwe kikaja ku wundi. Mu buryo bubereye, kuko turi ku citegererezo ca UTXO kandi ata makonti ariho, iyo nzira y’ugucuruza iraheza igashitsa ivyangombwa vy’ugukoresha amahera vyari vyarakingiye UTXO imwe canke nyinshi, ikazirya kandi bingana n’ivyo irema UTXO nshasha zifise ivyangombwa bishasha vyo gukoresha amahera. Muri make, ugucuruza bikura bitcoins mu nyandiko yuzuye bikaja mu nyandiko nshasha yagenewe kuyakingira.
+Uguhanahana ama Bitcoin ni igikorwa candikwa kuri Blockchain cerekana nyene gutunga ama bitcoins kiva ku muntu umwe kikimukira ku wundi. Mu buryo butomoye, kuko turi ku karorero ka UTXO kandi atavyo kuvuga ngo dukorera kuri konte, iyo nzira y'uguhanahana amahera iraheza igashitsa ivyankenerwa vy’ugusohora amahera vyari vyarashimangiye itungwa rya UTXO imwe canke nyinshi, igaheza nayo igashinga izindi ngingo nshasha zihuye n'ayaja kwinjira kurundi ruhande, bihuriranye n'ayo asohotse uko angana. Muyandi majambo, ugucuruza bikura bitcoins mu ngingo ikwije vyangombwa y'amahera yambere ikaja muyindi ngingo nshasha  igenewe gukingira ayagiye. Ivyinjizwa nivyo twita iniputi ibisohoka bikaba awutiputi maze guhanahana bikaba taranzagisiyo.
 
 
 ![BTC204](assets/fr/010.webp)
 
 
-Igicuruzwa cose ca Bitcoin rero gifise ikintu kimwe canke vyinshi vyinjizwa n’ikintu kimwe canke vyinshi bisohoka. Ivyinjizwa ni UTXOs zikoreshwa n’ugucuruza ku bisohoka vya generate. Ivyiza biva ni UTXO nshasha zishobora gukoreshwa nk’ibintu vy’injiza mu bikorwa vyo muri kazoza.
+Itranzagisiyo imwe yari yo yose ya Bitcoin rero ifise ikintu kimwe canke vyinshi vyinjizwa n’ikintu kimwe canke vyinshi bisohoka. Iniputi ni UTXOs zikoreshwa mukugira turonke awutiputi zikenewe. Izo awutiputi nizo ziheza zigahinduka UTXO zizokoreshwa hanyuma nka iniputi.
 
 
 ![BTC204](assets/fr/011.webp)
 
 
-**Wari uzi?** Mu vyiyumviro, igikorwa ca Bitcoin coshobora kugira umubare udahera w’ibintu vyinjizwa n’ibisohoka. Igitigiri conyene ni ubunini bw’ibarabara burengeye ubundi bwose.
+**Wari ubizi?** Mu majambo, Trabzagisyo imwe ya Bitcoin irashobora kugira ibitigiti bidaharurikavy'ama iniputi cokimwe n'ama awutiputi. Ikibiha urugero ntarengwa gusa ni ubunini broke bijako iba ifise.
 
 
-Ivyo winjiza vyose mu gucuruza Bitcoin vyerekeye UTXO itakoreshejwe mbere. Kugira ngo umuntu akoreshe UTXO nk’inyungu, uwuyifise ategerezwa kwerekana ko ari we afise uburenganzira bwo kuyikoresha mu kwemeza inyandiko ijana na yo, ni ukuvuga mu gushitsa ivyangombwa vyo gukoresha amahera vyategekanijwe. Muri rusangi, ivyo bisigura gutanga umukono wa digitale ukoresheje urufunguzo rw'ibanga rujanye n'urufunguzo rwa bose rwabanje gukingira uru UTXO. Ico canditswe rero gishingiye ku kugenzura ko iyo sinyatire ihuye n’urufunguzo rwa bose rwakoreshejwe igihe amahera yaronswa.
+Iniputi iyariyo yose iba ifitaniye isano na UTXO imwe muzo umuntu aba aherutse kuronka. Kugira ngo umuntu akoreshe UTXO nka iniputi, nyeneyo ategerezwa kwerekana ko arirwiwe vy'ukuri mukwerekana urupfunguruzo rwayo, ni ukuvugako kugira abironkere uburenganzira. Muyandi majambo, ategerezwa kuba afise rwa rupfunguruzo pibirike ruhuye neza na neza na rumwe rw'ibanga bifatanye n'iyo UTXO arivyo bivyara wamukono sinyatire. Ako karanga rero gashinguye kukuraba neza ko iyo sinyatire ihuye neza n'urupfunguruzo rwakoreshejwe umusi ayo mahera yakirwa.
 
 
 ![BTC204](assets/fr/012.webp)
 
 
-Igisohoka cose, na co nyene, kigaragaza umubare w’ama bitcoins azorungikwa, hamwe n’uwuzoyakira. Ico ca nyuma gisobanurwa n’inyandiko nshasha, akenshi ibuza UTXO iherutse kuremwa n’i Address yakira canke urufunguzo rushasha rwa bose.
+Awutiputi iyariyo yose, nayo nyene, isigura neza na naze igitigiri c’ama bitcoins arungikwa, hamwe n’uwuyakira. Uwo nawe akaba yerekanwa n’inyandiko nshasha, ahanini  iza gufatanya iyo UTXO nshasha  hamwe na aderese barungitseko canke urufunguzo rushasha basangiye n'uwurungitse.
 
 
-Kugira ngo igikorwa gifatwe ko gifise akamaro hakurikijwe amategeko y’uguhurizako, umusaruro wose utegerezwa kuba muto canke ungana n’umusaruro wose. Mu yandi majambo, umubare w’ama UTXO mashasha aterwa n’ugucuruza ntutegerezwa kurenga umubare w’ama UTXO akoreshwa nk’ibintu vy’inyungu. Iryo hame rirabereye: iyo ufise `500.000 Sats` gusa, ntushobora kugura `700.000 Sats`.
+Kugira ngo igikorwa co kurungikwa cemerwe hisunzwe amategeko ngenderwako , ama awutiputi arungitse ategerezwa kuba ari make canke angana n'ama iniputi yakoreshejwe. Mu yandi majambo, amahera yose aza kuva muma awutiputi ateranirijwe hamwe ategerezwa kubaa ari make ufatiye kumahera yari muma iniputi yose ateranirijwe hamwe. Nshatse kuvuga ko: iyo ufise `500.000 Sats` gusa, udashobora kurungikira umuntu `700.000 Sats`.
 
 
-### Exchange no gufatanya mu gucuruza Bitcoin
+### Kwisubiza canke kwigarura no guteranya ama bitcoin
 
 
-Ico gikorwa c'ugucuruza Bitcoin kuri UTXO rero gishobora kugereranywa no gusubira gukora Coin y'inzahabu. Nkako, UTXO ntishobora kugabanywa, ahubwo irashobora gusenyuka gusa. Ivyo bisigura ko uwukoresha adashobora gusa kugabanya UTXO iserukira umubare kanaka mu ma bitcoins mu UTXO ntoyi nyinshi. Ategerezwa kuyikoresha yose mu gucuruza kugira ngo areme UTXO imwe canke nyinshi nshasha z’agaciro k’ububisha mu bisohoka, zitegerezwa kuba ziri munsi canke zingana n’agaciro k’intango.
+Igikorwa co guha umuntu ama bitcoin twokigereranyo n'ukumumanyurirako kunzahabu ufise. Mu vy'ukuri, UTXO ntishobora kuvunjwa nko mutunoti duto duto, ahubwo irashobora kumanyukamwo kabiri. Aho nshatse kuvuga ko UTXO imwe udashobora kuyimanyuramwo utu UTXO twinshi tw'amahera make make. Bivuze ngo ategerezwa kuyikoresha yose nka iniputi kugira ngo aze kuyisohora muma awutiputi abiri canke imwe, bize kwanduruka rero bitanga UTXO zibiri canke imwe munyuma.
 
 
-Ubwo buryo busa n’ubw’inzahabu Coin. Reka tuvuge ko ufise Coin y’ama ounce 2 ugashaka kwishura ama ounce 1, twiyumvira ko uwugurisha adashobora kuguha amahera yo guhindura. Wobwirizwa gufukura Coin yawe ugatera 2 nshasha zifise ounce 1 kuri imwe yose.
+Ubwo buryo buransa nk'ubwo bakoresha mukugabura inzahabu. Reka dufate ko ufise inzahabu ipima ibiro 2 ukaba ushaka kugurisha ikiro 1 ukaba uzi ko uwuzigura adafise ico kugusubiza. Muri ico gihe wotegerezwa guca uyimanyuramwo kabiri, ukaronka ibimanyu 2 kimwe kimwe cose gipima ikiro 1.
 
 
-Bitcoin na yo ikora mu buryo nk’ubwo nyene. Reka twiyumvire ko Alice ifise UTXO ya `10.000 Sats` kandi yipfuza kugura umukate ugura `4.000 Sats`. Alice izokora ibikorwa vy’ubudandaji n’amashanyarazi 1 UTXO ya `10.000 Sats` nk’ivyo azokoresha, ivyo azobikoresha vyose, n’ama UTXO 2 y’amashanyarazi `4.000 Sats` na `6.000 Sats` nk’ivyo azosohora. UTXO ya `4.000 Sats` izorungikirwa umutetsi mu kwishura baguette, mu gihe UTXO ya `6.000 Sats` izosubira kuri Alice mu buryo bw’ihinduka. Iyi UTXO, isubira ku muntu yatanze iyo nzira, izwi kw'izina rya "Exchange" mu rurimi rwa Bitcoin.
+Na bitcoin rero ikora uko nyene. Reka basi dufate ko Alice ifise UTXO ya `10.000 Sats` kandi yipfuza kugura umukate kuri  `4.000 Sats`. Alice azoca ategerezwa gusohora UTXO 1 ya `10.000 Sats` nka iniputi, ayikoreshe igikwiye, ace ayikoramwo UTXO 2 imwe ya  `4.000 Sats` hamwe n'iya  `6.000 Sats` nk'ama awutiputi. Iyo UTXO ya `4.000 Sats` izoca ija kumudandaza w'imikate, hanyuma UTXO ya `6.000 Sats` izosubira kwa Alice mu buryo bwo kwisubiza canke kwigarura. Iyo UTXO, isubira kuri nyeneyo, nk'iyo igaruka, igereranywa nk'ingaru ariyo twita "Exchange" mu rurimi rw'aba Bitcoinere.
 
 
 ![BTC204](assets/fr/013.webp)
 
 
-None reka twiyumvire ko Alice idafise UTXO imwe y’amashanyarazi `10.000 Sats`, ahubwo ifise UTXO zibiri z’amashanyarazi `3.000 Sats` imwe yose. Muri ivyo, nta n'imwe muri UTXOs ku giti cayo ihagije kugira ngo ishobore gushinga `4.000 Sats` y'inkoni. Alice rero ategerezwa gukoresha icarimwe izo UTXO 2 za `3.000 Sats` nk’ivyo akoresha mu gucuruza kwiwe. Muri ubwo buryo, umubare wose w’ibikoresho uzoshika ku `6.000 Sats`, bimushoboze guhazwa n’amahera `4.000 Sats` yari yarihaye umutetsi. Ubu buryo, aho UTXO nyinshi zihurizwa hamwe nk'inyungu mu gucuruza, akenshi bwitwa "gufatanya".
+Kugira tubitahure neza ubu naho dufateko Alice ata UTXO imwe ya `10.000 Sats` afise, ahubwo yifitiye UTXO zibiri za `3.000 Sats` imwimwe. Muri ico gihe, nta n'imwe muri UTXOs afise ikwije ibisabwa kugirairihe za `4.000 Sats` ategerezwa kuriha. Alice rero aca ategerezwa gukoresha za UTXO 2 afise za `3.000 Sats` icarimwe nk'ama iniputi kugira ashikane iyo taranzagisyo. Muri uyo mwanya, ama iniputi yiwe aca aza kuba afise agaciro ka `6.000 Sats`, aho bica bikunda ko ariha  `4.000 Sats` ategerezwa guha wamudandaza. Ubu buryo rero, aho UTXO nyinshi zifatanywa kugira zishikane ayasabwa, nivyo vyitwa "guteranya" canke merijingi mucongereza.
 
 
 ![BTC204](assets/fr/014.webp)
 
 
-### Amafaranga y'ugucuruza
+### Amafaranga bakata
 
-
-Mu buryo bw’ubuhinga, umuntu yoshobora kwiyumvira ko ibiciro vy’ugucuruza na vyo nyene bigereranya umusaruro w’ugucuruza. Ariko mu vy’ukuri, ivyo si ko biri. Ibiciro vy’ugucuruza bigereranya itandukaniro hagati y’ivyo vyose bishirwamwo n’ivyo vyose bisohoka. Ivyo bisigura ko, inyuma yo gukoresha igice c’agaciro k’ibintu vyinjijwe kugira ngo umuntu apfuke ibintu vyipfuzwa mu gucuruza, umubare kanaka w’ibintu vyinjijwe uguma udakoreshwa. Iryo shirahamwe ry’amasigarira ni ryo rigize amahera y’ugucuruza.
+Mu buryo bunyaruka, umuntu yoshobora kwiyumvira ko arya mafaranga bakata nayo nyene asohoka nka awutiputi. Ariko mu vy’ukuri, ivyo si ko bimeze. Ahubwo amahera bakata agereranwa ufashe igitigiri kiri muma iniputi ugakuramwo ikiri muma awutiputi. Ivyo bisigura ko, inyuma yo gukwiza ama iniputi ashikana ama awutiputi ukeneye, usanga hari amahera angana igitigiri kanaka atakoreshejwe. Ayo rero usanze abura muma awutiputi niyo rezo iba yakase.
 
 
 ```plaintext
@@ -262,13 +260,13 @@ Frais = total inputs - total outputs
 ```
 
 
-Reka dufate akarorero ka Alice, afise UTXO ya `10.000 Sats`, ashaka kugura umukate ku `4.000 Sats`. Alice irema ubucuruzi na UTXO yiwe ya `10.000 Sats` nk’inyungu. Araheza akazana umusaruro w’amafaranga `4.000 Sats` kugira ngo umutetsi ashobore kwishura iyo baguette. Kugira ngo abacukuzi b’amabuye y’agaciro bashire ibikorwa vyiwe mu gice, Alice itanga `200 Sats` mu mahera. Araheza akarema igisubizo ca kabiri, ihinduka, rizosubirwamwo, ringana na `5.800 Sats`.
+Reka n'ubu dufatire akarorero kumuntu yitwa Alice, afise UTXO ingana na `10.000 Sats`, ashaka kugura umukate kuri `4.000 Sats`. Alice akoresha UTXO yiwe ya `10.000 Sats` nka iniputi. Araheza agatanga awutiputi imwe irimwo `4.000 Sats` kugira ngo umudandaza ashobore kumuha umukate. Kugira ngo abamineri rero bashobore kwemeza ico gikorwa n'umudandaza amushikire, Alice itanga `200 Sats` nk'ayo bakata. Araheza rero agaca akora awutiputi ya kabiri y'ayasigaye, ariyo imugarukako, ifise agaciro `5.800 Sats`.
 
 
 ![BTC204](assets/fr/015.webp)
 
 
-Dukoresheje uburyo bw’amahera, turabona ko vy’ukuri hariho `200 Sats` zisigaye ku bana bato:
+Dukoresheje uburyo foromire, turabona ko vy’ukuri hariho `200 Sats` zisigara tudafise:
 
 
 ```plaintext
@@ -279,37 +277,37 @@ Frais = 200
 ```
 
 
-Iyo Miner ashoboye kwemeza ububiko, arafise uburenganzira bwo gutora ayo mahera ku bikorwa vyose biri muri bubiko bwiwe, biciye ku vyo bita "coinbase" transaction.
+Iyo umu mineri ashoboye kwemeza broke, arafise uburenganzira bwo gutora ayo mahera ku bikorwa vyose biri muri broke yemeje, biciye kum taranzagisyo bita "coinbase".
 
 
-### Gukora UTXOs kuri Bitcoin
+### Uko bakora UTXO kuri Bitcoin
 
 
-Niba warakurikiye neza ibice vyabanje, ubu uzomenya ko UTXO zishobora kuremwa gusa mu kurya izindi UTXO zihari. Muri ubwo buryo, ibiceri vya Bitcoin birakora uruzitiro rudahengeshanya. Ariko rero, woshobora kuba uriko uribaza ingene ibihimba vya mbere vyo muri urwo ruhererekane vyabayeho. Ivyo bivyura ingorane isa n’iy’inkoko n’igi: izo UTXO z’intango zavuye hehe?
+Hamwe twoba twajanye kuva kare, watahuye neza ko UTWO ishobora gukorwa biciye kuzindi UTXO zisanzwe zihari. Muri ico gihe, usanga ari uruhererekane rumeze nk'umugozi w'udupfundo ariyo shene. Ariko rero, nk'aho wosanga uciye utangura kwibaza nk'ahantu havuye iyambere itangura kuri iyo shene. Ico kibazo kimeze nka kirya gitera amadidane hagati y'icatanguye kubaho hagati y'inkoko n'irigi: izo UTXO z’intango zavuye hehe vy'ukuri?
 
 
-Inyishu iri mu **coinbase y’ibikorwa**.
+Inyishu iri mu **ma taranzagisyo ya coinbase**.
 
 
-Igikoresho c’amahera ni ubwoko bwihariye bw’ugucuruza kwa Bitcoin, ari bwo budasanzwe kuri buri bubiko kandi buhora ari ubwa mbere muri ivyo. Bituma Miner yaronse Proof of Work ibereye aronka Block reward yiwe. Iryo shimwe rigizwe n’ama Elements abiri: **block grant** na **amahera y’ugucuruza**, twavuze mu gice ca mbere.
+Taranzagisyo ya coinbase ziri mubwoko bwihariye muri bitcoin, ninayo itangurira broke iyariyo yose. Ninaco gituma umu mineri yashoboyekwerekana kobaye uwambere mukwemeza broke imwitirirwa gutyo akaharonkera n'iyo mpembo. Ako gashimwe kaba kagizwe n’ibintu bibiri arivyo twita : **block grant** hamwe rero **amahera y’impembo**, twavuze mu aho hejuru.
 
 
-Coinbase Transaction ni yo yihariye kuko ari yo yonyene ishobora kurema bitcoins ex nihilo, ata nkenerwa yo gukoresha ivyinjijwe ku bisohoka vya generate. Ivyo bice bishasha vyaremwe nivyo twokwita "UTXOs z'umwimerere".
+Tranzagisyo ya Coinbase irihariye kuko niyo yonyene ishobora gutanguza bitcoins kuri broke , itarinze gukenera ama iniputi nk'izindi kugira zitange ama awutiputi. Izo bitcoins zishasha ziba zibonetse nizo twita "UTXOs z'umwimerere".
 
 
 ![BTC204](assets/fr/016.webp)
 
 
-Block-subsidized bitcoins ni BTC nshasha yaremwe kuva mu ntango, hakurikijwe urutonde rwo gutanga rwashinzwe imbere y’igihe mu mategeko y’uguhurizako. Infashanyo y'amabarabara igabanywa igice c'amabarabara 210.000, ni ukuvuga hafi buri myaka ine, mu buryo buzwi nka "Halving". Mu ntango, ama bitcoins 50 yararemwa n’infashanyo imwe imwe, ariko iyo nsiguro yaragabanutse buhoro buhoro; ubu, ni 3.125 bitcoins ku bubiko.
+Ico twita Block-subsidized bitcoins ni BTC nshasha yakozwe atavy'ama iniputi n'ama awutiputi bikenewe, hakurikijwe urutonde rwo gutanga rwashinzwe imbere y’igihe mu mategeko ngenderwako. Agashirukabute kajanye n'iyemezwa ry'ama broke ritangwa kuri buri broke zingana 210.000 zemejwe, ni ukuvuga hafi buri myaka ine, mu gikorwa citwa "Halving". Ubwambere bigitangura, ama bitcoins 50 yaratangwa nk'ubushimwe, ariko uwo murindi wagiye uragabanuka gahoro gahoro; ubu, igeze kuri bitcoins 3.125  kuri buri broke.
 
 
-Naho ku bijanye n’amahera y’ibikorwa, naho nyene aserukira BTC nshasha yaremwe, ntashobora kurenga itandukaniro hagati y’ivyo vyose vyinjizwa n’ivyo bisohoka vy’ibikorwa vyose biri mu gice. Twarabonye mbere ko ayo mahera aserukira igice c’ibintu vyinjizwa bidakoreshwa mu biva mu bikorwa vy’ubudandaji. Ico gice "kirazimangana" mu buryo bw'ubuhinga mu gihe c'ugucuruza, kandi Miner irafise uburenganzira bwo gusubira kurema ako gaciro mu buryo bw'i UTXO imwe canke nyinshi nshasha. Ivyo ni uguhindura agaciro hagati y'uwutanga amafaranga n'uwa Miner ariyongera kuri Blockchain.
+Naho ku bijanye n'arya mahera bakata nk'agashimwe kabo, naho nayo nyene umengo ni BTC nshasha, ntashobora kurenga ayasigara hagati y'igitigiri kiri muma iniputi dukuyemwo ikiri muma awutiputi yose kuri tranzagisyo. Mbere twanabonye ko ayo mahera ari mugishingo c'amahera asigara kuma iniputi uba wakoresheje muri tranzagisyo imwe.  Muburyo buri tekenike ico gice kiratakara ariko umumineri akaronka uruhusha rwo gushobora gushiramwo UTXO imwe canke nyinshi zishasha zihuye n'ako gaciro . Ivyo ni ukuzishira mugaciro  hagati y'uwutanga amafaranga n'uwakoze iyo minage vyiyongera kuri Blockchain.
 
 
-**Wari uzi?** Ama Bitcoins akomoka kuri Coinbase Transaction afise igihe co gukura c'ama blocks 100, muri ico gihe ntashobora gukoreshwa na Miner. Iri tegeko ryagenewe kwirinda ingorane zijanye n’ugukoresha ama bitcoins mashasha yaremwe ku ruzitiro rwoshobora guhinduka ubusa.
+**Wari ubizi?** Ama Bitcoins akomoka muma tranzagisiyo ya Coinbase ntashobora gukoreshwa ikintu na kimwe mugihe uwo mumineri atarakwiza broke 100 yemeje. Ibi vyanshinzwe kugira ntihagire uwuhava akoresha amahera mashasha ashobora guta agaciro.
 
 
-### Inkurikizi z'ikigereranyo ca UTXO
+### Inkurikizi z'ikoreshwa ry'ama UTXO
 
 
 Mbere na mbere, urugero rwa UTXO ruragira ico rukoze ata guca ku ruhande ku mahera y’ugucuruza ya Bitcoin. Kubera ko ubushobozi bw’ibarabara rimwe rimwe ari buke, abacukuzi barakunda ibikorwa bitanga amahera meza kuruta ayandi yose ugereranije n’ahantu bazofata muri iryo barabara. Nkako, uko igikorwa gishiramwo ama UTXO menshi mu vyo yinjiza n’ivyo asohora, ni ko iremera, rero isaba amahera menshi. Iyi ni imwe mu mpamvu zituma kenshi tugerageza kugabanya igitigiri c’ama UTXO muri Wallet yacu, ivyo na vyo nyene bishobora gutuma habaho ibanga, ikintu tuzokwihweza mu buryo burambuye mu gice ca gatatu c’iri shure.
