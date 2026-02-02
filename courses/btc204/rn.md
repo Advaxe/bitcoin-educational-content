@@ -353,10 +353,10 @@ Ku rundi ruhande, kubera kamere yayo, gukoresha amahera incuro zibiri si ingoran
 ![BTC204](assets/fr/019.webp)
 
 
-Ku mafaranga y’ubuhinga bwa none, ingorane ni itandukanye. Kumenya neza ko igitabu Coin ari ic’ukuri kandi ko kitagira agasembwa akenshi biroroshe. Nk’uko twabibonye mu gice ca mbere, igishushanyo ca Bitcoin ca UTXO kiratuma bishoboka gukurikirana Coin gushika aho yakomotse, gutyo bigasuzumwa ko vy’ukuri yaremwe na Miner hakurikijwe amategeko y’uguhurizako.
+Ku mafaranga y’ubuhinga bwa none, hoho biroroha cane. Kumenya neza ko ifaranga ari iry’ukuri kandi ko kitagira akabazo na gato akenshi biranyaruka. Nk’uko twabibonye mu gice ca mbere, igicapo ca Bitcoin citwa UTXO kiratuma bishoboka gukurikirana ifaranga gushika aho ryakomotse, gutyo rero bigasuzumwa ko vy’ukuri yakozwe n'umuminere hakurikijwe amategeko ngenderwako.
 
 
-Ku rundi ruhande, kumenya neza ko ata Double-spending iriho biragoye cane, kuko ibintu vyose vy’ubuhinga bwa none ari amakuru nyayo. Amakuru atandukanye n’ibintu vy’umubiri, ntagabanywa iyo ahinduwe, ahubwo arakwiragira mu kugwiza. Nk’akarorero, iyo nkurungikiye inyandiko kuri e-mail, irakwisubirwamwo. Ntushobora kwemera neza ko nafuse inyandiko y’umwimerere.
+Ku rundi ruhande, kumenya neza ko ata Double-spending iriho biragoye cane, kuko ibintu vyose vy’ubuhinga bifise akaranga k'amakuru.Amakuru y'ibintu bidafadika, ntashobora kugabanywa biboneka ngo ni uko ahinduwe, ahubwo aba bwiyongere mukwigwiza. Nk’akarorero, iyo nkurungikiye urwandiko kuri e-mail, ruza rwisubiriza. Ntushobora kumenya ko noba nafuse urwandiko rw'umwimerere mu guhindura utuntu.
 
 
 ![BTC204](assets/fr/020.webp)
